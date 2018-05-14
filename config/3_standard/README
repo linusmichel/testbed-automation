@@ -1,0 +1,7 @@
+This Folder contains Scripts for the standard installation procedure
+	- Updating apt
+	- Installing MoonGen
+	- Installing sdn-cert
+	- Installing OVS
+	- Installing LaTeX
+	- Setting up OVS with a bridge
